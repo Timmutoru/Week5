@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\bin\Debug\net6.0\ANDOperator.exe
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\bin\Debug\net6.0\ANDOperator.deps.json
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\bin\Debug\net6.0\ANDOperator.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\bin\Debug\net6.0\ANDOperator.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\bin\Debug\net6.0\ANDOperator.pdb
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\obj\Debug\net6.0\ANDOperator.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\obj\Debug\net6.0\ANDOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\obj\Debug\net6.0\ANDOperator.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\obj\Debug\net6.0\ANDOperator.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\obj\Debug\net6.0\ANDOperator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\obj\Debug\net6.0\ANDOperator.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\obj\Debug\net6.0\refint\ANDOperator.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\obj\Debug\net6.0\ANDOperator.pdb
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\obj\Debug\net6.0\ANDOperator.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week5Logical Operators\ANDOperator\obj\Debug\net6.0\ref\ANDOperator.dll
